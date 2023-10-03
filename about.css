@@ -1,0 +1,33 @@
+* {
+    background-color: black;
+}
+
+.about2 {
+    color: #22AFFF;
+    font-family:'Courier New';
+    text-align: center; 
+    font-family: 'DM Sans', sans-serif;
+    font-size: 50px;
+}
+
+.about3 {
+    color: white;
+    font-size: larger;
+    text-align: left;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.logo {
+    height: 200px;
+    width: 270px; 
+    margin-top: 50px; 
+}
+
+.Home {
+color: #22AFFF;
+font-size: 25px;
+font-family: 'DM Sans', sans-serif;
+text-align: center;
+margin-left: 46.5%;
+margin-right: 50%;
+}

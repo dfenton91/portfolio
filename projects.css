@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: #22AFFF;
+    font-size: 50px;
+}
+
+.Title {
+    font-family: 'DM Sans', sans-serif;
+    color: #22AFFF;
+    text-align: center;
+}
+
+.logo {
+    height: 200px;
+    width: 270px; 
+    margin-top: 50px; 
+}
+
+.Home {
+    color: #22AFFF;
+    font-size: 25px;
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+    margin-left: 46.5%;
+    margin-right: 50%;
+}
